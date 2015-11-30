@@ -1,0 +1,16 @@
+Bill of Materials
+
+2 25mm M3 socket head screws
+1 40mm 24v fan
+4 M3 nuts
+4 16mm M3 socket head screws
+1 additional 1.75mm E3D V6 hot end with bowden option.  Make sure to request a 24V 40watt heater cartridge.
+1 Bowden Coupling
+10 meters of PTFE Tube for bowden extruder 4mm OD, 2mm ID (it's cheap, and never hurts to have extra)
+
+Printed Parts:
+2 extruder clamps
+2 1.75_mark8_bowden_m5idler, however, one of them needs to be mirrored so that it fits on the other side of the printer.
+1 bowden fan
+1 induction clamp
+1 bowden mount
