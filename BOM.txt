@@ -4,6 +4,8 @@ Bill of Materials
 1 40mm 24v fan
 4 M3 nuts
 4 16mm M3 socket head screws
+2 14mm M3 socket head screws
+4 M3 locknuts
 1 additional 1.75mm E3D V6 hot end with bowden option.  Make sure to request a 24V 40watt heater cartridge.
 1 Bowden Coupling
 10 meters of PTFE Tube for bowden extruder 4mm OD, 2mm ID (it's cheap, and never hurts to have extra)
