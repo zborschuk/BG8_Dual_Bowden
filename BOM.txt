@@ -1,11 +1,15 @@
 Bill of Materials
 
+2 3/4" 6-32 socket head screws
+2 6-32 square nuts
+4 6-32 washers (M3 washers will also work)
 2 25mm M3 socket head screws
-1 40mm 24v fan
-4 M3 nuts
+4 M3 hex nuts
 4 16mm M3 socket head screws
 2 14mm M3 socket head screws
 4 M3 locknuts
+6 10mm M3 socket head screws
+1 40mm 24v fan
 1 additional 1.75mm E3D V6 hot end with bowden option.  Make sure to request a 24V 40watt heater cartridge.
 1 Bowden Coupling
 10 meters of PTFE Tube for bowden extruder 4mm OD, 2mm ID (it's cheap, and never hurts to have extra)
