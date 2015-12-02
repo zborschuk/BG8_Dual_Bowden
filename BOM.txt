@@ -19,7 +19,8 @@ Bill of Materials
 
 Printed Parts:
 2 extruder clamps
-2 1.75_mark8_bowden_m5idler, however, one of them needs to be mirrored so that it fits on the other side of the printer.
+1 1.75_mark8_bowden_m5idler
+1 mirrored_1.75_mark8_bowden_m5idler
 1 bowden fan
 1 induction clamp
 1 bowden mount
